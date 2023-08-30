@@ -1,0 +1,19 @@
+.bg-ColorNavbar {
+    background-color: #1fa02e;
+}
+
+.botonMod {
+    border: 1px solid;
+    border-radius: 50%;
+    color: #1fa02e;
+}
+
+.botonMod:hover {
+    background-color: #1fa02e;
+    color: white;
+
+}
+
+.linkFooter:hover{
+    color: #1fa02e;
+}
